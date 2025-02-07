@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http\\Controllers",
+    "\\app\\Mail",
+    "\\resources\\views\\layouts"
+  ],
+  "SelectedNode": "\\app\\Mail\\ThankQuoteMail.php",
+  "PreviewInSolutionExplorer": false
+}
