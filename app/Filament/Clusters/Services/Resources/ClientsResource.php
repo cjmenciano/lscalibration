@@ -45,7 +45,7 @@ class ClientsResource extends Resource
                     Forms\Components\FileUpload::make('image')
                         ->image()
                         ->required()
-                        ->disk('public')
+                        ->disk('s3')
                         ->directory('client_img'),
                     ])
                 ->columnSpan(1)

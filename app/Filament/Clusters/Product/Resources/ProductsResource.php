@@ -97,14 +97,14 @@ class ProductsResource extends Resource
                         ->helperText('Only upload Product Catalog PDF file.')
                         ->acceptedFileTypes(['application/pdf'])
                         ->required()
-                        ->disk('public')
+                        ->disk('s3')
                         ->directory('product_catalog')
                         ->maxParallelUploads(1),
                     Forms\Components\FileUpload::make('image')
                         ->label('Product Image')
                         ->image()
                         ->required()
-                        ->disk('public')
+                        ->disk('s3')
                         ->directory('product_img')
                         ->maxParallelUploads(1),
                     ])

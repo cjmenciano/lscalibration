@@ -41,7 +41,7 @@ class BrandsResource extends Resource
                 Forms\Components\FileUpload::make('image')
                     ->image()
                     ->required()
-                    ->disk('public')
+                    ->disk('s3')
                     ->directory('brand_img'),
                 ])->columnSpan(1),
             ]);

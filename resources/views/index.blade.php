@@ -303,7 +303,7 @@
 						<div class="owl-carousel clients-slider">
 							@foreach($item_clients as $client)
 							<div class="single-clients">
-								<img src="/storage/{{ $client->image }}" alt="{{ $client->slug }}">
+								<img src="https://amzn-s3-lscalibration-bucket.s3.ap-southeast-1.amazonaws.com/{{ $client->image }}" alt="{{ $client->slug }}">
 							</div>
 							@endforeach
 						</div>

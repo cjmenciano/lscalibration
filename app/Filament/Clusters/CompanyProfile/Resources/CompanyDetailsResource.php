@@ -163,7 +163,7 @@ class CompanyDetailsResource extends Resource
                     ->label('Company Logo')
                     ->image()
                     ->required()
-                    ->disk('public')
+                    ->disk('s3')
                     ->directory('company_img')
                     ->maxParallelUploads(1),
                 Forms\Components\Fieldset::make('Map Coordinates')

@@ -85,7 +85,7 @@
                         <div class="col-lg-2 col-md-3 col-12">
 								<!-- Start Logo -->
 								<div class="logo">
-									<a href="/"><img src="/storage/{{ $company_details->image }}" alt="{{ $company_details->company_name }}"></a>
+									<a href="/"><img src="https://amzn-s3-lscalibration-bucket.s3.ap-southeast-1.amazonaws.com/{{ $company_details->image }}" alt="{{ $company_details->company_name }}"></a>
 								</div>
 								<!-- End Logo -->
                         </div>
