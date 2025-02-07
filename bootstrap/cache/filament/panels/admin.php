@@ -49,10 +49,10 @@
   ),
   'clusters' => 
   array (
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\CompanyProfile.php' => 'App\\Filament\\Clusters\\CompanyProfile',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Product.php' => 'App\\Filament\\Clusters\\Product',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Services.php' => 'App\\Filament\\Clusters\\Services',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities.php' => 'App\\Filament\\Clusters\\Utilities',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\CompanyProfile.php' => 'App\\Filament\\Clusters\\CompanyProfile',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Product.php' => 'App\\Filament\\Clusters\\Product',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Services.php' => 'App\\Filament\\Clusters\\Services',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities.php' => 'App\\Filament\\Clusters\\Utilities',
   ),
   'clusteredComponents' => 
   array (
@@ -82,7 +82,7 @@
   ),
   'clusterDirectories' => 
   array (
-    0 => 'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament/Clusters',
+    0 => 'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament/Clusters',
   ),
   'clusterNamespaces' => 
   array (
@@ -91,14 +91,14 @@
   'pages' => 
   array (
     0 => 'Filament\\Pages\\Dashboard',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\CompanyProfile.php' => 'App\\Filament\\Clusters\\CompanyProfile',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Product.php' => 'App\\Filament\\Clusters\\Product',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Services.php' => 'App\\Filament\\Clusters\\Services',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities.php' => 'App\\Filament\\Clusters\\Utilities',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\CompanyProfile.php' => 'App\\Filament\\Clusters\\CompanyProfile',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Product.php' => 'App\\Filament\\Clusters\\Product',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Services.php' => 'App\\Filament\\Clusters\\Services',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities.php' => 'App\\Filament\\Clusters\\Utilities',
   ),
   'pageDirectories' => 
   array (
-    0 => 'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament/Pages',
+    0 => 'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament/Pages',
   ),
   'pageNamespaces' => 
   array (
@@ -106,21 +106,21 @@
   ),
   'resources' => 
   array (
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\CompanyProfile\\Resources\\CompanyDetailsResource.php' => 'App\\Filament\\Clusters\\CompanyProfile\\Resources\\CompanyDetailsResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\BrandsResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\BrandsResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\CategoriesResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\CategoriesResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\ProductsResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\ProductsResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\TagsResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\TagsResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Services\\Resources\\ClientsResource.php' => 'App\\Filament\\Clusters\\Services\\Resources\\ClientsResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Services\\Resources\\FaqsResource.php' => 'App\\Filament\\Clusters\\Services\\Resources\\FaqsResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Services\\Resources\\TrainingsResource.php' => 'App\\Filament\\Clusters\\Services\\Resources\\TrainingsResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities\\Resources\\PermissionResource.php' => 'App\\Filament\\Clusters\\Utilities\\Resources\\PermissionResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities\\Resources\\RoleResource.php' => 'App\\Filament\\Clusters\\Utilities\\Resources\\RoleResource',
-    'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities\\Resources\\UserResource.php' => 'App\\Filament\\Clusters\\Utilities\\Resources\\UserResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\CompanyProfile\\Resources\\CompanyDetailsResource.php' => 'App\\Filament\\Clusters\\CompanyProfile\\Resources\\CompanyDetailsResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\BrandsResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\BrandsResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\CategoriesResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\CategoriesResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\ProductsResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\ProductsResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Product\\Resources\\TagsResource.php' => 'App\\Filament\\Clusters\\Product\\Resources\\TagsResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Services\\Resources\\ClientsResource.php' => 'App\\Filament\\Clusters\\Services\\Resources\\ClientsResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Services\\Resources\\FaqsResource.php' => 'App\\Filament\\Clusters\\Services\\Resources\\FaqsResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Services\\Resources\\TrainingsResource.php' => 'App\\Filament\\Clusters\\Services\\Resources\\TrainingsResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities\\Resources\\PermissionResource.php' => 'App\\Filament\\Clusters\\Utilities\\Resources\\PermissionResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities\\Resources\\RoleResource.php' => 'App\\Filament\\Clusters\\Utilities\\Resources\\RoleResource',
+    'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament\\Clusters\\Utilities\\Resources\\UserResource.php' => 'App\\Filament\\Clusters\\Utilities\\Resources\\UserResource',
   ),
   'resourceDirectories' => 
   array (
-    0 => 'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament/Resources',
+    0 => 'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament/Resources',
   ),
   'resourceNamespaces' => 
   array (
@@ -132,7 +132,7 @@
   ),
   'widgetDirectories' => 
   array (
-    0 => 'C:\\Users\\TIP-MLA\\Desktop\\LS\\ls-adv\\app\\Filament/Widgets',
+    0 => 'C:\\Users\\TIP-MLA\\Documents\\MYFVCKINGFILES\\HVSTLE\\LS\\ls-adv\\app\\Filament/Widgets',
   ),
   'widgetNamespaces' => 
   array (
